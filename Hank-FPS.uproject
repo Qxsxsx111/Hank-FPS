@@ -1,0 +1,15 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.8",
+	"Category": "FPS Training Prototype",
+	"Description": "First-person shooter prototype built on the UE template: movement, jump pads, doors, knockdown targets, enemies, and three weapons (pistol, rifle, grenade launcher).",
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
